@@ -15,7 +15,7 @@
     <Authors>Cady IO</Authors>
     <PackageLicenseExpression></PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/CadyIO/hangfire-ravendb</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/CadyIO/hangfire-ravendb</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ops-ai/hangfire-ravendb</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
