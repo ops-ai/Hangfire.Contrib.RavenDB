@@ -1,10 +1,10 @@
-version: 3.2.0.{build}
+version: 5.0.1.{build}
 
 # branches to build
 branches:
   # whitelist
   only:
-    - master
+    - develop
     - production
 
   # blacklist
