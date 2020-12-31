@@ -1,11 +1,11 @@
 # Hangfire RavenDB
 
-## Build Status
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ops-ai_hangfire-ravendb&metric=alert_status)](https://sonarcloud.io/dashboard?id=ops-ai_hangfire-ravendb)
+[![Build Status](https://opsai.visualstudio.com/BeyondAuth/_apis/build/status/ops-ai.Hangfire.Contrib.RavenDB?branchName=develop)](https://opsai.visualstudio.com/BeyondAuth/_build/latest?definitionId=6&branchName=develop)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ops-ai_hangfire-ravendb&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=ops-ai_hangfire-ravendb)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ops-ai_hangfire-ravendb&metric=coverage)](https://sonarcloud.io/dashboard?id=ops-ai_hangfire-ravendb)
+![CodeQL](https://github.com/ops-ai/Hangfire.Contrib.RavenDB/workflows/CodeQL/badge.svg)
 
-`Platform` | `Master`
---- | ---
-**Windows** | [![Build status](https://ci.appveyor.com/api/projects/status/vvnexa0m89dukqpk?svg=true)](https://ci.appveyor.com/project/scattered-code/hangfire-ravendb)
-**Linux / OS X** | [![Travis CI Build Status](https://travis-ci.org/CadyIO/hangfire-ravendb.svg?branch=master)](https://travis-ci.org/CadyIO/hangfire-ravendb)
 
 ## Overview
 
