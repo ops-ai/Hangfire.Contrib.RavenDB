@@ -6,6 +6,8 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ops-ai_hangfire-ravendb&metric=coverage)](https://sonarcloud.io/dashboard?id=ops-ai_hangfire-ravendb)
 ![CodeQL](https://github.com/ops-ai/Hangfire.Contrib.RavenDB/workflows/CodeQL/badge.svg)
 
+[![NuGet Status](https://img.shields.io/nuget/v/Hangfire.Contrib.RavenDB.svg?style=flat)](https://www.nuget.org/packages/Hangfire.Contrib.RavenDB/)
+[![NuGet Count](https://img.shields.io/nuget/dt/Hangfire.Contrib.RavenDB.svg)](https://www.nuget.org/packages/Hangfire.Contrib.RavenDB/)
 
 ## Overview
 
